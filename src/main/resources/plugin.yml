@@ -1,0 +1,7 @@
+name: CombatLog
+version: '${project.version}'
+main: eportela.combatlog.CombatLog
+api-version: '1.16'
+authors: [eportela]
+description: Plugin to stop players from using commands and avoiding pvp, will warn staff in case player logout during pvp
+website: https://github.com/empsa1
